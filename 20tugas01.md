@@ -1,1 +1,1 @@
-Mencoba Git branching.
+Mencoba Git branching ke branch yang namanya `coba`.
